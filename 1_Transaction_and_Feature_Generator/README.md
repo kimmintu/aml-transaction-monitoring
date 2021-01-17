@@ -1,4 +1,4 @@
-# Original implementation
+# Original implementation & documentation
 https://github.com/zhangcheng1006/Anomaly-Detection-in-Networks
 
 # Anomaly-Detection-in-Networks
